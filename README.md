@@ -529,10 +529,6 @@ ANALYTICS-READY
 
 </div>
 
-### Complete Excel for Data Analytics
-
-🔗 [https://youtube.com/playlist?list=PLMeZZ2Z8RDGQ](https://youtube.com/playlist?list=PLMeZZ2Z8RDGQ)
-
 ---
 
 # ▶️ Tech With Shivansh
