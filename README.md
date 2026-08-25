@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/▶%20WATCH%20COURSE-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://youtube.com/@shivansh-techy">
+<a href="https://youtube.com/@Techie-Shivansh">
 <img src="https://img.shields.io/badge/TECH%20WITH%20SHIVANSH-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
@@ -45,9 +45,9 @@
 
 <img src="https://img.shields.io/github/repo-size/Venom-Shivu/excel-for-data-analytics?style=flat-square&label=Repository%20Size">
 
-<img src="https://img.shields.io/github/last-commit/Venom-Shivu/Complete-Excel-for-Data-Analytics?style=flat-square&label=Last%20Updated">
+<img src="https://img.shields.io/github/last-commit/Venom-Shivu/excel-for-data-analytics?style=flat-square&label=Last%20Updated">
 
-<img src="https://img.shields.io/github/license/Venom-Shivu/Complete-Excel-for-Data-Analytics?style=flat-square&label=License">
+<img src="https://img.shields.io/github/license/Venom-Shivu/excel-for-data-analytics?style=flat-square&label=License">
 
 </div>
 
