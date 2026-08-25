@@ -43,7 +43,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/repo-size/Venom-Shivu/Complete-Excel-for-Data-Analytics?style=flat-square&label=Repository%20Size">
+<img src="https://img.shields.io/github/repo-size/Venom-Shivu/excel-for-data-analytics?style=flat-square&label=Repository%20Size">
 
 <img src="https://img.shields.io/github/last-commit/Venom-Shivu/Complete-Excel-for-Data-Analytics?style=flat-square&label=Last%20Updated">
 
