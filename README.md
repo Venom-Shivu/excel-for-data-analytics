@@ -17,7 +17,7 @@
 
 <!-- ===================== DYNAMIC BADGES ===================== -->
 
-<a href="https://youtube.com/playlist?list=PLMeZZ2Z8RDGQ">
+<a href="https://youtube.com/playlist?list=PLfjfC1AZqHCU">
 <img src="https://img.shields.io/badge/▶%20WATCH%20COURSE-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
@@ -521,7 +521,7 @@ ANALYTICS-READY
 
 <div align="center">
 
-<a href="https://youtube.com/playlist?list=PLMeZZ2Z8RDGQ">
+<a href="https://youtube.com/playlist?list=PLfjfC1AZqHCU">
 
 <img src="https://img.shields.io/badge/▶%20WATCH%20COMPLETE%20EXCEL%20COURSE-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
@@ -538,7 +538,7 @@ ANALYTICS-READY
 <img src="assets/tech-with-shivansh-logo.png" alt="Tech With Shivansh Logo">
 
 
-<a href="https://youtube.com/@shivansh-techy">
+<a href="https://youtube.com/@techie-shivansh">
 
 <img src="https://img.shields.io/badge/Subscribe-Tech%20With%20Shivansh-red?style=for-the-badge&logo=youtube&logoColor=white">
 
