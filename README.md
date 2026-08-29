@@ -52,6 +52,13 @@
 </div>
 
 ---
+# 📊 Excel for Data Analytics
+
+### 🗓️ Live Classes (Monday - Friday | 8:30 PM - 10:30 PM IST)
+👉 **Join Google Meet Live Session:** [Click Here to Join Class](https://meet.google.com/bzj-xsad-hpb)
+
+---
+
 
 # 📌 About This Repository
 
