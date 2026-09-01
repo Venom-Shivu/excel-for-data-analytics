@@ -208,6 +208,7 @@ The complete Excel analytics journey includes:
 | 14 | **Lecture 14**    | 🧩 Power Pivot & Data Modeling                    |
 | 15 | **Lecture 15**    | 📐 DAX for Excel                                  |
 | 16 | **Lecture 16**    | 🤖 Macros & VBA for Analysts                      |
+| ⭐ | **(Case Study)[Case_Study]**    | 📊 Final Industrial Business Case Study                      |
 
 ---
 
